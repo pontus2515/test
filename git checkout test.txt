@@ -1,0 +1,112 @@
+[33mcommit f3f6acc745486a8833cffd19790ef72c55173fda[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:50:13 2021 +0800
+
+    allright
+
+[1mdiff --git a/home/home.txt b/home/home.txt[m
+[1mindex e69de29..4bf610f 100644[m
+[1m--- a/home/home.txt[m
+[1m+++ b/home/home.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m假假假假假假[m
+\ No newline at end of file[m
+[1mdiff --git a/test.txt b/test.txt[m
+[1mindex ce5c36d..21a8501 100644[m
+[1m--- a/test.txt[m
+[1m+++ b/test.txt[m
+[36m@@ -1 +1 @@[m
+[31m-你好啊[m
+\ No newline at end of file[m
+[32m+[m[32m你好啊滚滚滚谷歌奴弓弩概念股弓弩[m
+\ No newline at end of file[m
+
+[33mcommit 40b6eca8f091ae9f2fa05f64d1966593bc998cee[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:47:01 2021 +0800
+
+    提交
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce5c36d[m
+[1m--- /dev/null[m
+[1m+++ b/test.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m你好啊[m
+\ No newline at end of file[m
+[1mdiff --git a/two.txt b/two.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..977fde0[m
+[1m--- /dev/null[m
+[1m+++ b/two.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m我是二[m
+\ No newline at end of file[m
+
+[33mcommit 6121a4ac0749275e57c98b2545108077c8487816[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:40:12 2021 +0800
+
+    移动并命名
+
+[1mdiff --git a/test.txt b/home/home.txt[m
+[1msimilarity index 100%[m
+[1mrename from test.txt[m
+[1mrename to home/home.txt[m
+
+[33mcommit b7ecd6d7e5490760e87fea6ebe84d6c56ecd7d1a[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:39:28 2021 +0800
+
+    增加文件
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 2d4831bd96be70b437dbf65506ddb291cbdfed6c[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:26:18 2021 +0800
+
+    delete
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+
+[33mcommit a8cc9522998f08252a61e25b9134447a08945f8b[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:24:31 2021 +0800
+
+    success
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mindex 3b18e51..e69de29 100644[m
+[1m--- a/test.txt[m
+[1m+++ b/test.txt[m
+[36m@@ -1 +0,0 @@[m
+[31m-hello world[m
+
+[33mcommit bee956efb2ebf08ccb696fb61360fcb9750f0932[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:20:18 2021 +0800
+
+    修改成功
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mindex e69de29..3b18e51 100644[m
+[1m--- a/test.txt[m
+[1m+++ b/test.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello world[m
+
+[33mcommit 157032a54cfc642e7c331c63a0b65738e05953e3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: pontus <1271152395@qq.com>
+Date:   Tue Jul 20 14:02:40 2021 +0800
+
+    test.txt
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
